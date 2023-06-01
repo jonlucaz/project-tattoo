@@ -1,0 +1,25 @@
+*{
+    background-color: black;
+}
+
+.logo{
+    background: none;
+    width: 200px;
+    height: auto;
+
+}
+
+.sec1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 40rem;
+    background-image: url(./assets/section1-back.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+
+}
+
+
