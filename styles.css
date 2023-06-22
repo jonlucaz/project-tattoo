@@ -152,3 +152,20 @@ body{
 .word-orçamento:visited{
     color: black;
 }
+
+.sec3{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.item{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    justify-content: center;
+    align-items: center;
+}

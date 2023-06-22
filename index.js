@@ -7,4 +7,7 @@ igLogo.addEventListener("mouseover", function(){
 igLogo.addEventListener("mouseout", function() {
     igLogo.style.width = ""; // Retorna ao tamanho original da largura
     igLogo.style.height = ""; // Retorna ao tamanho original da altura
-  });
+});
+
+
+
