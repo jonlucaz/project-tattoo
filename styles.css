@@ -208,3 +208,21 @@ body{
 .item-text:visited{
     color: white;
 }
+
+.sec4{
+    background-image: url(./assets/backlogo.jpg);
+    display: flex;
+    flex-direction: column;
+    border: none;
+    outline: none;
+    margin-top: none;
+    padding: none;
+    align-items: center;
+    padding-top: 40px;
+    align-items: center;
+    width: 100%;
+    height: 70rem;
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position:center center;
+}
