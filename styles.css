@@ -228,3 +228,18 @@ body{
     outline: none;
     vertical-align: baseline;
 }
+
+.gallery div {
+    position: relative;
+}
+
+.gallery img:hover {
+    transform: scale(1.1);
+    z-index: 1;
+    padding: 20px;
+}
+
+
+.sec5{
+    background-color: black;
+}
